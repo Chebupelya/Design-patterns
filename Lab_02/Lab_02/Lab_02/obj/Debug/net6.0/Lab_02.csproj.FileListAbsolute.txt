@@ -1,0 +1,15 @@
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\bin\Debug\net6.0\Lab_02.exe
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\bin\Debug\net6.0\Lab_02.deps.json
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\bin\Debug\net6.0\Lab_02.runtimeconfig.json
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\bin\Debug\net6.0\Lab_02.dll
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\bin\Debug\net6.0\Lab_02.pdb
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.csproj.AssemblyReference.cache
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.AssemblyInfoInputs.cache
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.AssemblyInfo.cs
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.csproj.CoreCompileInputs.cache
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.dll
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\refint\Lab_02.dll
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.pdb
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\Lab_02.genruntimeconfig.cache
+C:\Учёба БГТУ\2 курс\4 семестр\Лабораторные\Паттерны проектирования\Lab_02\Lab_02\Lab_02\obj\Debug\net6.0\ref\Lab_02.dll
