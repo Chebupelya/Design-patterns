@@ -1,8 +1,6 @@
 ﻿using Lab_3;
 using Lec03BLibN;
 
-Console.WriteLine("--- Laboratory work 3 ---\n");
-
 IFactory l1 = Lec03BLib.GetL1();
 
 Employee employee1 = new Employee(l1.GetA(25));

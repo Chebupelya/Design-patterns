@@ -1,6 +1,6 @@
 ﻿namespace Lec03BLibN
 {
-    public static partial class Lec03BLib
+    public static class Lec03BLib
     {
         public static IFactory GetL1()
         {
